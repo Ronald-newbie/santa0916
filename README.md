@@ -196,25 +196,5 @@
 <br>
 </div>
 
-<!--<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=cedev935&show_icons=true&theme=radical" alt="cedev935"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedev935&hide=html,css&layout=compact&theme=radical" alt="cedev935"/>
-</p>
-
-<p  align="Right">
-
-</p>
-<p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cedev935&theme=radical" alt="cedev935"/>
-</p> 
-
-
-## ⚡ Status
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cedev935&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cedev935&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cedev935&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cedev935&theme=algolia&utcOffset=8)
-
 
 
